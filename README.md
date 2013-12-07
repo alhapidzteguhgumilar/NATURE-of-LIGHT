@@ -1,33 +1,28 @@
-# classrecipe-template
+# NATURE-of-LIGHT
 ## elementary,social,classroom
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+SENIOR HIGH SCHOOL
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://farm9.staticflickr.com/8011/7157328978_08e2aafd82_h.jpg)
 ---
 #Scale
 1 classroom (~30)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
-
+In this activity, students make a discussion about nature of light.
 
 ---
 #Educational Effect
-* Search information and Remixing
-
-skill
-
 * Presentation Skill
-* deep Knowledge for own country
+* deep Knowledge for nature of light
 
 ---
-#Item/Material/System
-* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
-* Screen for presentation
+#Books Source
+*Giancoli Book
+*BSE book
+*etc
 ---
