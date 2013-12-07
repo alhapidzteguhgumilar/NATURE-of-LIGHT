@@ -26,3 +26,7 @@ In this activity, students make a discussion about nature of light.
 *BSE book
 *etc
 ---
+#ITEM/MATERIAL/SYSTEM
+*Sneil's law
+*Discussion system
+---
