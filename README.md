@@ -15,6 +15,7 @@ SENIOR HIGH SCHOOL
 #Overall
 In this activity, students make a discussion about nature of light.
 
+![DIS.JPEG](http://cdn.omdidien.com/wp-content/uploads/2012/07/diskusi.jpg)
 ---
 #Educational Effect
 * Presentation Skill
@@ -54,5 +55,5 @@ When the light or other wave involved is monochromatic, that is, of a single fre
 *teacher makes the summaries
 ---
 #ADDITIONAL FILE FOR LEARNING
-http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&ved=0CD8QFjAD&url=http%3A%2F%2Fxray1.physics.sunysb.edu%2F~jacobsen%2Fphy300f2008%2Fl9.pdf&ei=QLGiUumQM8ymrQeki4HIDQ&usg=AFQjCNF4Dw69pVCGf9dP43FshbbxhiE9ew&bvm=bv.57752919,d.bmk
+http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=4&amp;cad=rja&amp;ved=0CD8QFjAD&amp;url=http%3A%2F%2Fxray1.physics.sunysb.edu%2F~jacobsen%2Fphy300f2008%2Fl9.pdf&amp;ei=QLGiUumQM8ymrQeki4HIDQ&amp;usg=AFQjCNF4Dw69pVCGf9dP43FshbbxhiE9ew&amp;bvm=bv.57752919,d.bmk
 ---
