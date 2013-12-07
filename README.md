@@ -53,3 +53,6 @@ When the light or other wave involved is monochromatic, that is, of a single fre
 *each group present their result
 *teacher makes the summaries
 ---
+#ADDITIONAL FILE FOR LEARNING
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&ved=0CD8QFjAD&url=http%3A%2F%2Fxray1.physics.sunysb.edu%2F~jacobsen%2Fphy300f2008%2Fl9.pdf&ei=QLGiUumQM8ymrQeki4HIDQ&usg=AFQjCNF4Dw69pVCGf9dP43FshbbxhiE9ew&bvm=bv.57752919,d.bmk
+---
