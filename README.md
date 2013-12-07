@@ -46,3 +46,10 @@ When the light or other wave involved is monochromatic, that is, of a single fre
 
     \frac{\sin\theta_1}{\sin\theta_2} = \frac{v_1}{v_2} = \frac{\lambda_1}{\lambda_2} 
 ---
+#PROSEDURE
+*teacher explains goals of learning
+*teacher makes 5 groups
+*teacher give problems to student to be discussed
+*each group present their result
+*teacher makes the summaries
+---
